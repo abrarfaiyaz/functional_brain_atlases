@@ -1,4 +1,4 @@
-# Functional Brain Atlases
+# Functional Brain Atlases - UManitoba-JHU Atlas (Network Nodes)
 All the files are in FSL's standard MNI space. The template file includes the related T1 file for refenrence.
 If DWI available. Connectivity analysis can be done to extract neural features for further investigation.
 
@@ -161,6 +161,9 @@ Involved in spatial cognition and navigation. Includes posterior parietal cortex
 ### Please note:
 The atlas comes with absolutely no warranty. Suggested usage in research and not recommended for clinical evaluations.
 
-### Please cite our work:
+### Please cite the following works:
 [WILL BE ADDED SOON]
+1. Figley TD, Bhullar N, Courtney SM and Figley CR (2015). Front. Hum. Neurosci. 9:585.
+2. Figley TD, Mortazavi Moghadam B, Bhullar N, Kornelsen J, Courtney SM, and Figley CR (2017). Front. Hum. Neurosci. 11:306.
+
 
