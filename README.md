@@ -166,6 +166,8 @@ The atlas comes with absolutely no warranty. Suggested usage in research and not
 
 ### Please cite the following works:
 [WILL BE ADDED SOON]
+
+### References:
 1. Figley TD, Bhullar N, Courtney SM and Figley CR (2015). Front. Hum. Neurosci. 9:585.
 2. Figley TD, Mortazavi Moghadam B, Bhullar N, Kornelsen J, Courtney SM, and Figley CR (2017). Front. Hum. Neurosci. 11:306.
 
