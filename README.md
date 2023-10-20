@@ -1,6 +1,9 @@
-# Functional Brain Atlases - UManitoba-JHU Atlas (Network Nodes)
+# Functional Brain Atlases - UManitoba-JHU Atlas (Network Nodes in FSL MNI standard space)
 All the files are in FSL's standard MNI space. The template file includes the related T1 file for refenrence.
 If DWI available. Connectivity analysis can be done to extract neural features for further investigation.
+
+The original atlas was built on 32 neurologically healthy subjects and the nodes of functionally defined regions are well-defined in literature. It is available at the following link. This repo holds the network nodes in FSL MNI standard space which is not available in originally.  
+- https://www.nitrc.org/projects/uofm_jhu_atlas/#:~:text=This%20is%20a%20probabilistic%20atlas,%2C%20Visuospatial%2C%20etc.
 
 Here are brief summaries of the 14 Networks that are mentioned:
 DMN_D, DMN_V, ECN_L, ECN_R, SN_A, SN_P, 
